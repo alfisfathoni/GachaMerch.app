@@ -285,3 +285,6 @@ The pre-seeded database contains ready-to-test accounts for both user and admini
   - Check `backend/.env` and verify whether your XAMPP MySQL root has a password. If empty, leave `DB_PASSWORD=` blank.
 - **Flutter Build Stalls or Cached Dependencies Error**:
   - Execute `flutter clean && flutter pub get` inside the `frontend/` directory.
+ 
+    FINAL PROJECT MOBILE HYBRID SOLUTIONS
+    
